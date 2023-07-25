@@ -16,9 +16,9 @@ pycparser==2.20
     # via cffi
 pyjwt[crypto]==1.7.1
     # via -r requirements.in
-pytz==2021.1
-    # via -r requirements.in
 pyyaml==6.0.1
+    # via -r requirements.in
+pytz==2021.1
     # via -r requirements.in
 six==1.14.0
     # via
