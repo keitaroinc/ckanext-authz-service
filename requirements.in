@@ -1,5 +1,5 @@
 pyjwt[crypto]==1.7.*
-pyyaml==5.*
+pyyaml==6.*
 six==1.14.*
 typing==3.7.*
 typing-extensions==3.7.*
